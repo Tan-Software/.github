@@ -10,7 +10,7 @@ Bonjour 👋,
 
 Je suis Tanguy, développeur Freelance fullstack, travaillant à 100% en remote.
 
-Je crée des applications web et mobiles pour les entreprises à la recherche d'un développeur capable de gérer le front-end, le back-end et le déploiement de leur application, tout en proposant des audits et des services de conseil.
+Je crée des applications web et mobiles pour les entreprises à la recherche d'un développeur capable de gérer le front-end, le back-end et le déploiement de leur application, ainsi que des audits et des services de conseil.
 
 En tant que chef de projet en conception de systèmes informatiques, j'offre également des services de conseil pour optimiser les processus de gestion. Mon expérience précédente en tant que chef de groupe militaire enrichit ma compréhension des défis organisationnels.
 
@@ -29,7 +29,7 @@ Hello 👋,
 
 I'm Tanguy, a freelance fullstack developer, working 100% remotely.
 
-I develop web and mobile applications for companies looking for a developer capable of handling front-end, back-end, and deployment of their application, while also offering audits and consulting services.
+I develop web and mobile applications for companies looking for a developer capable of handling front-end, back-end, and deployment of their application. Also offering audits and consulting services.
 
 As a project leader in computer systems design, I also provide consulting services to optimize management processes. My previous experience as a military group leader enriches my understanding of organizational challenges.
 
