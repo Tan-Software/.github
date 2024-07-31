@@ -4,38 +4,38 @@
 
 ## <span style="color:#0066cc">Français</span>
 
-### <span style="color:#009900">Je développe des produits numériques</span>
+### <span style="color:#009900">Nous développons des produits numériques</span>
 
 Bonjour 👋,
 
-Je suis Tanguy, développeur Freelance fullstack, travaillant à 100% en remote.
+Nous sommes **Tansoftware**, une agence web basée à Nantes, spécialisée dans le développement fullstack à distance.
 
-Je crée des applications web et mobiles pour les entreprises à la recherche d'un développeur capable de réaliser le front-end, le back-end et le déploiement de leur application, ainsi que des audits et des services de conseil.
+Nous créons des applications web et mobiles pour les entreprises qui recherchent une expertise complète en front-end, back-end et déploiement. Nous proposons également des audits et des services de conseil.
 
-En tant que chef de projet en conception de systèmes informatiques, j'offre également des services de conseil pour optimiser les processus de gestion. Mon expérience précédente en tant que chef de groupe militaire enrichit ma compréhension des défis organisationnels.
+En tant que chef de projet en conception de systèmes informatiques, nous offrons des services de conseil pour optimiser les processus de gestion. Notre expérience en gestion de projets enrichit notre compréhension des défis organisationnels.
 
-N'hésitez pas à me contacter pour discuter de vos besoins et explorer comment nous pourrions collaborer ensemble. 🚀
+N'hésitez pas à nous contacter pour discuter de vos besoins et explorer comment nous pourrions collaborer ensemble. 🚀
 
 **Discutons de votre projet.**  
-[Retrouvez-moi sur LinkedIn →](https://www.linkedin.com/in/tanguy-chenier/)
+[Retrouvez-nous sur notre site →](https://www.tansoftware.com)
 
 ---
 
 ## <span style="color:#0066cc">English</span>
 
-### <span style="color:#009900">I Build Digital Products</span>
+### <span style="color:#009900">We Build Digital Products</span>
 
 Hello 👋,
 
-I'm Tanguy, a freelance fullstack developer, working 100% remotely.
+We are **Tansoftware**, a Nantes-based web agency specializing in fullstack development remotely.
 
-I develop web and mobile applications for businesses looking for a developer who can create the front-end, back-end and deployment of their application. Also offering audit and consulting services.
+We develop web and mobile applications for businesses looking for comprehensive expertise in front-end, back-end, and deployment. We also offer audit and consulting services.
 
-As a project leader in computer systems design, I also provide consulting services to optimize management processes. My previous experience as a military group leader enriches my understanding of organizational challenges.
+As project leaders in computer systems design, we provide consulting services to optimize management processes. Our project management experience enriches our understanding of organizational challenges.
 
-Feel free to contact me to discuss your needs and explore how we could collaborate together. 🚀
+Feel free to contact us to discuss your needs and explore how we could collaborate together. 🚀
 
 **Let's discuss your project.**  
-[Find me on LinkedIn →](https://www.linkedin.com/in/tanguy-chenier/)
+[Find us on our website →](https://www.tansoftware.com)
 
 ---
